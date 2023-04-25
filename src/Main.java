@@ -2,6 +2,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Todo : 
 // relancer game -> incrementer score -> Regle de depart tirage aleatoir, et fair recommencer le gagnant de la derniere parti premier a 10 a gagné tous les matches
 
 
